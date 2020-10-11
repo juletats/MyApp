@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calc">Инженерный калькулятор</string>
+    <string name="title_activity_graph_view1">Построение графика</string>
+    <string name="title_activity_graph_view2">График</string>
+    <string name="title_activity_aboutapp">О Приложении</string>
+</resources>
